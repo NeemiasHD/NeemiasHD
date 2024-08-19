@@ -29,3 +29,4 @@
 </div>
 <br/>
 Adoro fazer coisas relacionado com a parte visual e espero ajudar muitas pessoas com minhas habilidades.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e78300&height=120&section=footer"/>
