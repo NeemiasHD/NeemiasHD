@@ -1,4 +1,6 @@
-### Olá me chamo Neemias Claudio 🫡
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e78300&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e78300&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Neemias+Claudio;I'm+20+years+old;I+am+from+Jataí,+GO;I+study+Computer+Science+at+UFJ;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://neemiashd.github.io/Meu_Portifolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neemias-claudio-957267302/)
@@ -20,6 +22,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+
 <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
