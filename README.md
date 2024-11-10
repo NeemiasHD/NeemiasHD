@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e78300&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Neemias+Claudio;I'm+20+years+old;I+am+from+Jataí,+GO;I+study+Computer+Science+at+UFJ;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://neemiashd.github.io/Meu_Portifolio/)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neemias-claudio-957267302/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neemias_claudio/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/neemiashd)
