@@ -1,3 +1,5 @@
+<div align="center">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e78300&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e78300&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Neemias+Claudio;I'm+20+years+old;I+am+from+Jataí,+GO;I+study+Computer+Science+at+UFJ;Be+Welcome!+:%29)](https://git.io/typing-svg) 
@@ -30,3 +32,5 @@
 <br/>
 Adoro fazer coisas relacionado com a parte visual e espero ajudar muitas pessoas com minhas habilidades.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e78300&height=120&section=footer"/>
+</div>
+
